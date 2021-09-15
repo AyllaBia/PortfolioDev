@@ -16,6 +16,7 @@ const Experience = (props) => (
         <p>
           <b>{props.title} </b>
         </p>
+        <p>{props.description}</p>
         <p>{props.company}</p>
       </Col>
     </Row>
