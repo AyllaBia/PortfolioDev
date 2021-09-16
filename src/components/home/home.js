@@ -27,26 +27,10 @@ const Home = () => (
       <Card>
         <div>
           <p>
-            <b>Lorem</b>
-          </p>
-          <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut laborevoluptate velit esse cillum
-            dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum."
+          Meu nome é Aylla Beatriz, tenho 17 anos, atualmente resido em Embu das Artes e estou cursando o 3° do ensino médio técnico em informática. Tenho alguns cursos e projetinhos simples relacionados ao desenvolvimento front-end.  
+          Algumas das coisas que mais gosto de fazer é tirar fotos, estudar música e aprender coisas novas.
           </p>
           <br />
-          <p>
-            <b>Ipsum</b>
-          </p>
-          <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut laborevoluptate velit esse cillum
-            dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-            non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum."
-          </p>
         </div>
       </Card>
       <h5 className="subtitle">Projetos</h5>
