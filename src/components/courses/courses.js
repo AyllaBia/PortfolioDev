@@ -29,7 +29,6 @@ import dataTech from '../../images/courses/dataTech.png';
 // Importando a imagem Unasp
 import unasp from '../../images/courses/unasp.jpg';
 
-
 const Courses = () => (
   <Row>
     <Col m={3} s={12}>
@@ -113,7 +112,7 @@ const Courses = () => (
     />
 
     <Experience
-    title="Introdução á programação Web FullStack"
+    title="Introdução à programação Web FullStack"
     company="Data Tech School"
     avatar={dataTech}
     />
